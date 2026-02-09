@@ -1,0 +1,5 @@
+mountpoints:
+   /:
+     url: "https://author-p181852-e1911054.adobeaemcloud.com/bin/franklin.delivery/sandeadobe/emea-191/main%22
+     type: "markup"
+     suffix: ".html"
