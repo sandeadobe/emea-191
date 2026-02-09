@@ -2,18 +2,13 @@
   "mappings": [
     "/content/testing-eds/:/",
     "/content/testing-eds/configuration:/.helix/config.json",
-    "/content/testing-eds/metadata:/metadata.json",
-    "/content/testing-eds/configs:/configs.json",
-    "/content/testing-eds/configs-stage:/configs-stage.json",
-    "/content/testing-eds/configs-dev:/configs-dev.json",
-    "/content/testing-eds/redirects:/redirects.json",
-    "/content/testing-eds/placeholders:/placeholders.json",
-    "/content/testing-eds/products/recommended-products:/products/recommended-products.json",
-    "/content/testing-eds/enrichment/enrichment:/enrichment/enrichment.json",
-    "/content/dam/citisignal/images/products/:/images/products/",
-    "/content/testing-eds/us/de:/us/de/"
+    "/content/testing-eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/testing-eds/"
+    "/content/testing-eds/",
+    "/content/dam/",
+    "/content/forms/af/",
+    "/adobe/forms/af/",
+    "/adobe/assets/"
   ]
 }
