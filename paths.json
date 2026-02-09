@@ -1,0 +1,20 @@
+{
+  "mappings": [
+    "/content/pullestest/:/",
+    "/content/pullestest/configuration:/.helix/config.json",
+    "/content/pullestest/metadata:/metadata.json",
+    "/content/pullestest/configs:/configs.json",
+    "/content/pullestest/configs-stage:/configs-stage.json",
+    "/content/pullestest/configs-dev:/configs-dev.json",
+    "/content/pullestest/redirects:/redirects.json",
+    "/content/pullestest/placeholders:/placeholders.json",
+    "/content/pullestest/products/recommended-products:/products/recommended-products.json",
+    "/content/pullestest/enrichment/enrichment:/enrichment/enrichment.json",
+    "/content/dam/citisignal/images/products/:/images/products/",
+    "/content/pullestest/us/de:/us/de/"
+  ],
+  "includes": [
+    "/content/pullestest",
+    "/content/dam/citisignal/images/products/"
+  ]
+}
