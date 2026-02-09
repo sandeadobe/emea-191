@@ -1,5 +1,5 @@
 mountpoints:
-   /:
-     url: "https://author-p181852-e1911054.adobeaemcloud.com/bin/franklin.delivery/sandeadobe/emea-191/main"
-     type: "markup"
-     suffix: ".html"
+  /:
+    url: "https://author-p181852-e1911054.adobeaemcloud.com/bin/franklin.delivery/sandeadobe/emea-191/main"
+    type: "markup"
+    suffix: ".html"
